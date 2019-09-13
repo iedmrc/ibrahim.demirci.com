@@ -7,7 +7,7 @@ range: 'Jul 2018  - Present'
 url: 'https://stria.com/'
 ---
 
-[Stria.co](https://stria.com) is a lightweight, AI powered user feedback collection and analysis tool for websites.
+[Stria.co](https://stria.co) is a lightweight, AI powered user feedback collection and analysis tool for websites.
 
 - Software Architecture
 - Emotion & Sentiment Analysis NLP (ML/DL) Research & Development (Keras on Python with Flask)
