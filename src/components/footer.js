@@ -117,7 +117,7 @@ const Footer = ({ githubInfo }) => (
           </GithubInfo>
         )}
       </GithubLink>
-      <p>Last updated: 13 Sep 2019</p>
+      <p>Last updated: 05 Feb 2020</p>
     </Copy>
   </FooterContainer>
 );

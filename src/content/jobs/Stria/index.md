@@ -1,5 +1,5 @@
 ---
-date: '2019-07-15'
+date: '2020-07-15'
 title: 'Co-Founder & CTO'
 company: 'Stria.co'
 location: 'Ankara, TR'

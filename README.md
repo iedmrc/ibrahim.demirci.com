@@ -2,6 +2,46 @@
 
 This repository contains the source code of [https://ibrahim.demirci.com](https://ibrahim.demirci.com). This project is originally created by [Brittany Chiang](https://brittanychiang.com/) under [MIT License](https://github.com/bchiang7/v4/blob/master/LICENSE) and modified by [me](https://ibrahim.demirci.com). Thanks Brittany for this great design. I left `Forking this repo` section as is.
 
+## 🛠 Installation & Set Up
+
+1. Install the Gatsby CLI
+
+   ```sh
+   npm install -g gatsby-cli
+   ```
+
+2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
+
+   ```sh
+   nvm install
+   ```
+
+3. Install dependencies
+
+   ```sh
+   yarn
+   ```
+
+4. Start the development server
+
+   ```sh
+   npm start
+   ```
+
+## 🚀 Building and Running for Production
+
+1. Generate a full static production build
+
+   ```sh
+   npm run build
+   ```
+
+1. Preview the site as it will appear once deployed
+
+   ```sh
+   npm run serve
+   ```
+
 ## 🚨 Forking this repo
 
 Many people have contacted me asking me if they can use this code for their own websites. The answer to that question is _usually_ "yes", with attribution. There are some cases, such as using this code for a business or something that is greater than a personal project, that I may be less comfortable saying yes to. If in doubt, please don't hesitate to ask me.
